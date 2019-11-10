@@ -1,0 +1,161 @@
+example data similar to 12613-02-02-4.csv
+some text
+some text
+some text
+some text
+some text
+;;;;Insgesamt;männlich;more;more;;
+2017;01;Kreis-1;unter 1 Jahr;72;39;33;63;33;30
+2017;01;Kreis-1;1 bis unter 5 Jahre;11;6;5;10;5;5
+2017;01;Kreis-1;5 bis unter 10 Jahre;4;2;2;4;2;2
+2017;01;Kreis-1;10 bis unter 15 Jahre;24;13;11;21;11;10
+2017;01;Kreis-1;15 bis unter 20 Jahre;24;13;11;21;11;10
+2017;01;Kreis-1;20 bis unter 25 Jahre;48;26;22;42;22;20
+2017;01;Kreis-1;25 bis unter 30 Jahre;24;13;11;21;11;10
+2017;01;Kreis-1;30 bis unter 35 Jahre;72;39;33;63;33;30
+2017;01;Kreis-1;35 bis unter 40 Jahre;97;53;44;84;44;40
+2017;01;Kreis-1;40 bis unter 45 Jahre;218;119;99;189;99;90
+2017;01;Kreis-1;45 bis unter 50 Jahre;488;266;222;420;220;200
+2017;01;Kreis-1;50 bis unter 55 Jahre;732;399;333;630;330;300
+2017;01;Kreis-1;55 bis unter 60 Jahre;1097;598;499;945;495;450
+2017;01;Kreis-1;60 bis unter 65 Jahre;1464;798;666;1260;660;600
+2017;01;Kreis-1;65 bis unter 70 Jahre;1830;998;832;1575;825;750
+2017;01;Kreis-1;70 bis unter 75 Jahre;3173;1730;1443;2730;1430;1300
+2017;01;Kreis-1;75 bis unter 80 Jahre;5370;2928;2442;4620;2420;2200
+2017;01;Kreis-1;80 bis unter 85 Jahre;6590;3593;2997;5670;2970;2700
+2017;01;Kreis-1;85 Jahre und mehr;20016;10914;9102;17220;9020;8200
+2017;01;Kreis-1;Insgesamt;41354;22547;18807;35588;18641;16947
+2016;02;Kreis-2;unter 1 Jahr;11;6;5;10;5;5
+2016;02;Kreis-2;1 bis unter 5 Jahre;-;-;-;-;-;-
+2016;02;Kreis-2;5 bis unter 10 Jahre;-;-;-;-;-;-
+2016;02;Kreis-2;10 bis unter 15 Jahre;2;1;1;2;1;1
+2016;02;Kreis-2;15 bis unter 20 Jahre;2;1;1;2;1;1
+2016;02;Kreis-2;20 bis unter 25 Jahre;6;3;3;6;3;3
+2016;02;Kreis-2;25 bis unter 30 Jahre;2;1;1;2;1;1
+2016;02;Kreis-2;30 bis unter 35 Jahre;11;6;5;10;5;5
+2016;02;Kreis-2;35 bis unter 40 Jahre;13;7;6;12;6;6
+2016;02;Kreis-2;40 bis unter 45 Jahre;35;19;16;31;16;15
+2016;02;Kreis-2;45 bis unter 50 Jahre;81;44;37;71;37;34
+2016;02;Kreis-2;50 bis unter 55 Jahre;125;68;57;109;57;52
+2016;02;Kreis-2;55 bis unter 60 Jahre;188;102;86;163;85;78
+2016;02;Kreis-2;60 bis unter 65 Jahre;252;137;115;218;114;104
+2016;02;Kreis-2;65 bis unter 70 Jahre;317;173;144;273;143;130
+2016;02;Kreis-2;70 bis unter 75 Jahre;550;300;250;474;248;226
+2016;02;Kreis-2;75 bis unter 80 Jahre;932;508;424;802;420;382
+2016;02;Kreis-2;80 bis unter 85 Jahre;1143;623;520;984;515;469
+2016;02;Kreis-2;85 Jahre und mehr;3479;1897;1582;2994;1568;1426
+2016;02;Kreis-2;Insgesamt;7149;3896;3253;6163;3225;2938
+2016;03;Kreis-3;unter 1 Jahr;13;7;6;12;6;6
+2016;03;Kreis-3;1 bis unter 5 Jahre;2;1;1;2;1;1
+2016;03;Kreis-3;5 bis unter 10 Jahre;-;-;-;-;-;-
+2016;03;Kreis-3;10 bis unter 15 Jahre;4;2;2;4;2;2
+2016;03;Kreis-3;15 bis unter 20 Jahre;4;2;2;4;2;2
+2016;03;Kreis-3;20 bis unter 25 Jahre;8;4;4;8;4;4
+2016;03;Kreis-3;25 bis unter 30 Jahre;4;2;2;4;2;2
+2016;03;Kreis-3;30 bis unter 35 Jahre;13;7;6;12;6;6
+2016;03;Kreis-3;35 bis unter 40 Jahre;17;9;8;16;8;8
+2016;03;Kreis-3;40 bis unter 45 Jahre;41;22;19;37;19;18
+2016;03;Kreis-3;45 bis unter 50 Jahre;99;54;45;86;45;41
+2016;03;Kreis-3;50 bis unter 55 Jahre;150;82;68;130;68;62
+2016;03;Kreis-3;55 bis unter 60 Jahre;226;123;103;195;102;93
+2016;03;Kreis-3;60 bis unter 65 Jahre;301;164;137;260;136;124
+2016;03;Kreis-3;65 bis unter 70 Jahre;379;206;173;327;171;156
+2016;03;Kreis-3;70 bis unter 75 Jahre;658;359;299;567;297;270
+2016;03;Kreis-3;75 bis unter 80 Jahre;1114;607;507;959;502;457
+2016;03;Kreis-3;80 bis unter 85 Jahre;1368;746;622;1178;617;561
+2016;03;Kreis-3;85 Jahre und mehr;4160;2268;1892;3580;1875;1705
+2016;03;Kreis-3;Insgesamt;8561;4665;3896;7381;3863;3518
+2016;04;Kreis-4;unter 1 Jahr;-;-;-;-;-;-
+2016;04;Kreis-4;1 bis unter 5 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;5 bis unter 10 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;10 bis unter 15 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;15 bis unter 20 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;20 bis unter 25 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;25 bis unter 30 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;30 bis unter 35 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;35 bis unter 40 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;40 bis unter 45 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;45 bis unter 50 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;50 bis unter 55 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;55 bis unter 60 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;60 bis unter 65 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;65 bis unter 70 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;70 bis unter 75 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;75 bis unter 80 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;80 bis unter 85 Jahre;-;-;-;-;-;-
+2016;04;Kreis-4;85 Jahre und mehr;-;-;-;-;-;-
+2016;04;Kreis-4;Insgesamt;-;-;-;-;-;-
+2016;DX;Kreis-5;unter 1 Jahr;547;298;249;472;247;225
+2016;DX;Kreis-5;1 bis unter 5 Jahre;89;48;41;77;40;37
+2016;DX;Kreis-5;5 bis unter 10 Jahre;35;19;16;31;16;15
+2016;DX;Kreis-5;10 bis unter 15 Jahre;182;99;83;157;82;75
+2016;DX;Kreis-5;15 bis unter 20 Jahre;182;99;83;157;82;75
+2016;DX;Kreis-5;20 bis unter 25 Jahre;365;199;166;315;165;150
+2016;DX;Kreis-5;25 bis unter 30 Jahre;182;99;83;157;82;75
+2016;DX;Kreis-5;30 bis unter 35 Jahre;547;298;249;472;247;225
+2016;DX;Kreis-5;35 bis unter 40 Jahre;734;400;334;632;331;301
+2016;DX;Kreis-5;40 bis unter 45 Jahre;1651;900;751;1421;744;677
+2016;DX;Kreis-5;45 bis unter 50 Jahre;3674;2003;1671;3162;1656;1506
+2016;DX;Kreis-5;50 bis unter 55 Jahre;5512;3005;2507;4743;2484;2259
+2016;DX;Kreis-5;55 bis unter 60 Jahre;8270;4509;3761;7116;3727;3389
+2016;DX;Kreis-5;60 bis unter 65 Jahre;11029;6013;5016;9489;4970;4519
+2016;DX;Kreis-5;65 bis unter 70 Jahre;13787;7517;6270;11862;6213;5649
+2016;DX;Kreis-5;70 bis unter 75 Jahre;23899;13031;10868;20561;10770;9791
+2016;DX;Kreis-5;75 bis unter 80 Jahre;40446;22054;18392;34797;18227;16570
+2016;DX;Kreis-5;80 bis unter 85 Jahre;49638;27066;22572;42705;22369;20336
+2016;DX;Kreis-5;85 Jahre und mehr;150759;82204;68555;129700;67938;61762
+2016;DX;Kreis-5;Insgesamt;311528;169861;141667;268026;140390;127636
+__________
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
